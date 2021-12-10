@@ -1,0 +1,11 @@
+**/node_modules/**
+**/build/**
+**/build2/**
+**/uploads/**
+**/.history/**
+**/.docz/**
+**/sql/**
+**/error_logs/**
+**.env**
+yarn.lock
+package-lock.json

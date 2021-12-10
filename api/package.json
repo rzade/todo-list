@@ -1,0 +1,15 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "author": "Rahman Qadirzade",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}

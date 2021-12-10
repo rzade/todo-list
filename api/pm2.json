@@ -1,0 +1,10 @@
+{
+  apps : [
+    {
+      name      : "todo-api",
+      script    : "npx",
+      interpreter: "none",
+      args: "yarn run start"
+    }
+  ]
+}
